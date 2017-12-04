@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce30f9e3-bb86-4dbc-8aa4-c44c2378b168" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="MainWindow.Designer.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MainWindow.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+              <folding>
+                <marker date="1512042551343" expanded="true" signature="20:5185" ph="{...}" />
+                <marker date="1512042551343" expanded="true" signature="49:5183" ph="{...}" />
+                <marker date="1512042551343" expanded="true" signature="58:126" ph="/// Required designer variable. ... " />
+                <marker date="1512042551343" expanded="true" signature="196:375" ph="/// Clean up any resources being used. ... " />
+                <marker date="1512042551343" expanded="true" signature="427:561" ph="{...}" />
+                <marker date="1512042551343" expanded="true" signature="478:524" ph="{...}" />
+                <marker date="1512042551343" expanded="true" signature="567:4865" ph="Windows Form Designer generated code" />
+                <marker date="1512042551343" expanded="true" signature="617:768" ph="/// Required method for Designer support - do not modify ... " />
+                <marker date="1512042551343" expanded="true" signature="807:4849" ph="{...}" />
+                <marker date="1512042551343" expanded="true" signature="1363:1395" ph="/* pbxRender ... */" />
+                <marker date="1512042551343" expanded="true" signature="1786:1816" ph="/* btnDoit ... */" />
+                <marker date="1512042551343" expanded="true" signature="2237:2266" ph="/* panel1 ... */" />
+                <marker date="1512042551343" expanded="true" signature="2627:2666" ph="/* flowLayoutPanel1 ... */" />
+                <marker date="1512042551343" expanded="true" signature="3283:3312" ph="/* lblSPP ... */" />
+                <marker date="1512042551343" expanded="true" signature="3725:3755" ph="/* lblTime ... */" />
+                <marker date="1512042551343" expanded="true" signature="4185:4218" ph="/* MainWindow ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="packages.config" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/packages.config">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Scene.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Scene.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1512042551582" expanded="true" signature="6:137" ph="..." />
+                <marker date="1512042551582" expanded="true" signature="159:4333" ph="{...}" />
+                <marker date="1512042551582" expanded="true" signature="182:4331" ph="{...}" />
+                <marker date="1512042551582" expanded="true" signature="192:289" ph="/// Elements contains all scene elements (lights and shapes) ... " />
+                <marker date="1512042551582" expanded="true" signature="827:973" ph="/// Finds closest intersection of ray with scene ... " />
+                <marker date="1512042551582" expanded="true" signature="1031:1388" ph="{...}" />
+                <marker date="1512042551582" expanded="true" signature="1135:1356" ph="{...}" />
+                <marker date="1512042551582" expanded="true" signature="1282:1348" ph="{...}" />
+                <marker date="1512042551582" expanded="true" signature="1393:1598" ph="/// Returns true if points are not ocludded (no element is between them) ... " />
+                <marker date="1512042551582" expanded="true" signature="1649:1863" ph="{...}" />
+                <marker date="1512042551582" expanded="true" signature="1870:1968" ph="/// Generate Cornell Box Geometry ... " />
+                <marker date="1512042551582" expanded="true" signature="2005:4327" ph="{...}" />
+                <marker date="1512042551582" expanded="true" signature="2044:2170" ph="{...}" />
+                <marker date="1512042551582" expanded="true" signature="3812:4197" ph="/* el.BSDF.Add(new MicrofacetReflection(Spectrum.ZeroSpectrum.FromRGB(Color.White), 1.5, 1, 0.05)); ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Scene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/MainWindow.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/packages.config" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="290" />
+    <option name="y" value="74" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PathTracerFramework1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PathTracerFramework1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PathTracerFramework" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PathTracerFramework1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PathTracerFramework" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PathTracerFramework1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PathTracerFramework" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="References" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assemblies" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="PathTracerFramework1 (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="PathTracerFramework" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="MainWindow.cs" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_OUTPUT_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce30f9e3-bb86-4dbc-8aa4-c44c2378b168" name="Default" comment="" />
+      <created>1512414500785</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512414500785</updated>
+      <workItem from="1512414502005" duration="1187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1187000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26617178" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Scene.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512042551582" expanded="true" signature="6:137" ph="..." />
+            <marker date="1512042551582" expanded="true" signature="159:4333" ph="{...}" />
+            <marker date="1512042551582" expanded="true" signature="182:4331" ph="{...}" />
+            <marker date="1512042551582" expanded="true" signature="192:289" ph="/// Elements contains all scene elements (lights and shapes) ... " />
+            <marker date="1512042551582" expanded="true" signature="827:973" ph="/// Finds closest intersection of ray with scene ... " />
+            <marker date="1512042551582" expanded="true" signature="1031:1388" ph="{...}" />
+            <marker date="1512042551582" expanded="true" signature="1135:1356" ph="{...}" />
+            <marker date="1512042551582" expanded="true" signature="1282:1348" ph="{...}" />
+            <marker date="1512042551582" expanded="true" signature="1393:1598" ph="/// Returns true if points are not ocludded (no element is between them) ... " />
+            <marker date="1512042551582" expanded="true" signature="1649:1863" ph="{...}" />
+            <marker date="1512042551582" expanded="true" signature="1870:1968" ph="/// Generate Cornell Box Geometry ... " />
+            <marker date="1512042551582" expanded="true" signature="2005:4327" ph="{...}" />
+            <marker date="1512042551582" expanded="true" signature="2044:2170" ph="{...}" />
+            <marker date="1512042551582" expanded="true" signature="3812:4197" ph="/* el.BSDF.Add(new MicrofacetReflection(Spectrum.ZeroSpectrum.FromRGB(Color.White), 1.5, 1, 0.05)); ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MainWindow.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="49" lean-forward="true" selection-start-line="32" selection-start-column="49" selection-end-line="32" selection-end-column="49" />
+          <folding>
+            <marker date="1512042551343" expanded="true" signature="20:5185" ph="{...}" />
+            <marker date="1512042551343" expanded="true" signature="49:5183" ph="{...}" />
+            <marker date="1512042551343" expanded="true" signature="58:126" ph="/// Required designer variable. ... " />
+            <marker date="1512042551343" expanded="true" signature="196:375" ph="/// Clean up any resources being used. ... " />
+            <marker date="1512042551343" expanded="true" signature="427:561" ph="{...}" />
+            <marker date="1512042551343" expanded="true" signature="478:524" ph="{...}" />
+            <marker date="1512042551343" expanded="true" signature="567:4865" ph="Windows Form Designer generated code" />
+            <marker date="1512042551343" expanded="true" signature="617:768" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1512042551343" expanded="true" signature="807:4849" ph="{...}" />
+            <marker date="1512042551343" expanded="true" signature="1363:1395" ph="/* pbxRender ... */" />
+            <marker date="1512042551343" expanded="true" signature="1786:1816" ph="/* btnDoit ... */" />
+            <marker date="1512042551343" expanded="true" signature="2237:2266" ph="/* panel1 ... */" />
+            <marker date="1512042551343" expanded="true" signature="2627:2666" ph="/* flowLayoutPanel1 ... */" />
+            <marker date="1512042551343" expanded="true" signature="3283:3312" ph="/* lblSPP ... */" />
+            <marker date="1512042551343" expanded="true" signature="3725:3755" ph="/* lblTime ... */" />
+            <marker date="1512042551343" expanded="true" signature="4185:4218" ph="/* MainWindow ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/packages.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
