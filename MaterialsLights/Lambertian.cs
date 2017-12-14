@@ -16,8 +16,8 @@ namespace PathTracer
 
     public override Spectrum f(Vector3 wo, Vector3 wi)
     {
-      /* Implement */
-      return Spectrum.ZeroSpectrum;
+//      return Spectrum.ZeroSpectrum;
+      return kd / Math.PI; // '/' operation is defined in Spectrum.cs
     }
 
     public override (Spectrum, Vector3, double) Sample_f(Vector3 wo)
@@ -33,7 +33,7 @@ namespace PathTracer
       wi.x = Math.Cos(phi) * Math.Sin(theta);
       wi.y = Math.Sin(phi) * Math.Sin(theta);
       wi.z = Math.Cos(theta);
-      Spectrum f = kd / Math.PI; // '/' operation is defined in Spectrum.cs
+      Spectrum f = this.f(wo, wi);
       double pr = Math.Cos(theta) / Math.PI;
 
       return (f, wi, pr);

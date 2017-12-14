@@ -83,6 +83,7 @@ namespace PathTracer
       };
       try
       {
+        
         while (totalSamples < maxTotalSamples)
         {
           var samples = SamplePointsOnImagePlane(s, 1);
@@ -97,7 +98,7 @@ namespace PathTracer
 
             // evaluate radiance
             Spectrum L = integrator.Li(r, s);
-
+            
             // add radiance to image
             AddToImage(samp, L, s);
 
