@@ -47,9 +47,10 @@ namespace PathTracer
 
     public override (SurfaceInteraction, double) Sample()
     {
-      var pObj = Samplers.UniformSampleSphere() * Radius;
+      var pObj = Samplers.CosineSampleHemisphere() * Radius;
       pObj *= Radius / pObj.Length(); // refine
-      var n = pObj.Normalize();
+      var n = ObjectToWorld.ApplyNormal(pObj);
+      //n *= -1;
       var dpdu = new Vector3(-pObj.y, pObj.x, 0);
       var pdf = 1 / Area();
       return (ObjectToWorld.Apply(new SurfaceInteraction(pObj, n, Vector3.ZeroVector, dpdu, this)), pdf);
