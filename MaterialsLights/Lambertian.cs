@@ -16,14 +16,12 @@ namespace PathTracer
 
     public override Spectrum f(Vector3 wo, Vector3 wi)
     {
-//      return Spectrum.ZeroSpectrum;
       return kd / Math.PI; // '/' operation is defined in Spectrum.cs
     }
 
     public override (Spectrum, Vector3, double) Sample_f(Vector3 wo)
     {
-      /* Implement */
-//      return (Spectrum.ZeroSpectrum, Vector3.ZeroVector, 0);
+
       var rand1 = Samplers.ThreadSafeRandom.NextDouble();
       var rand2 = Samplers.ThreadSafeRandom.NextDouble();
 
@@ -35,14 +33,13 @@ namespace PathTracer
       wi.z = Math.Cos(theta);
       Spectrum f = this.f(wo, wi);
       double pr = Math.Cos(theta)/Math.PI;
-
+      
       return (f, wi, pr);
-
     }
 
     public override double Pdf(Vector3 wo, Vector3 wi)
     {
-      return Utils.CosTheta(wi) / Math.PI;
+      return Utils.CosTheta(wo) / Math.PI;
     }
   }
 }
