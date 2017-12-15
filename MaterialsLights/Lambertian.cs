@@ -29,12 +29,12 @@ namespace PathTracer
 
       var theta = Math.Asin(Math.Sqrt(rand1));
       var phi = 2 * Math.PI * rand2;
-      Vector3 wi = new Vector3();
+      Vector3 wi = Vector3.ZeroVector;
       wi.x = Math.Cos(phi) * Math.Sin(theta);
       wi.y = Math.Sin(phi) * Math.Sin(theta);
       wi.z = Math.Cos(theta);
       Spectrum f = this.f(wo, wi);
-      double pr = Math.Cos(theta) / Math.PI;
+      double pr = Math.Cos(theta)/Math.PI;
 
       return (f, wi, pr);
 
@@ -42,8 +42,7 @@ namespace PathTracer
 
     public override double Pdf(Vector3 wo, Vector3 wi)
     {
-      /* Implement */
-      return 0;
+      return Utils.CosTheta(wi) / Math.PI;
     }
   }
 }
