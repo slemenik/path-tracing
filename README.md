@@ -1,6 +1,9 @@
 # Phisically based rendering - Path tracing
 A homework project for course of Advanced computer graphics, Faculty of Computer and Information Science, University of Ljubljana, Slovenia
 
+![pathtracer](https://user-images.githubusercontent.com/32905529/37046458-b7d2bbbe-2168-11e8-8f63-7cca985df299.PNG)
+
+
 ### 1 Introduction
 The goal of this homework is to get familiar with path tracing and the use of different light sources and materials in physically based rendering. Your task is to extend the path tracing framework provided with the homework and implement a basic path tracing algorithm (3), spherical lights (4) and Lambertian material (5) within the framework. 
 
